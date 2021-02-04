@@ -11,3 +11,4 @@ This repository contains all the code that I (and student colleagues) have writt
 - **Machine Learning** 
   - In the case of the group assignments I worked together with Brian Leenen ([LinkedIn](https://www.linkedin.com/in/brian-leenen/)) & Willemijn Brus ([LinkedIn](https://www.linkedin.com/in/willemijn-brus-338505a4/))
 
+In the case of the thesis, there is a separate repository on my GitLab account ([here](https://gitlab.com/cavriends/tvp_vars_vb)).
